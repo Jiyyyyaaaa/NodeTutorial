@@ -1,0 +1,5 @@
+mongodb connection
+server creation
+models
+routers
+crud operations
