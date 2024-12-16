@@ -5,7 +5,7 @@ const db=require('./db');
 const bodyParser=require('body-parser');
 app.use(bodyParser.json());
 
-
+// comment added
 // data being parsed and stored in req body
 app.get('/',(req,res)=>{
     res.send("welcome to my website")
